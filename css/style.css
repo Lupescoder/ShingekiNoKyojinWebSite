@@ -1,0 +1,70 @@
+body {
+    text-align: center;
+    background-color: rgb(238, 238, 238);
+}
+
+.navbar {
+    background-color: rgb(147, 26, 12);
+    color: white;
+    text-decoration: none;
+}
+
+.nav-item {
+    padding: 0 40px;
+}
+
+.inicio p,
+.sobre p {
+    text-align: justify;
+}
+
+.inicio {
+    margin-top: 40px;
+}
+
+.sobre {
+    margin-top: 40px;
+}
+
+.noticias {
+    margin-top: 40px;
+}
+
+.banner img {
+    height: 500px;
+    background-image: url(img/backgroundoficial.png);
+}
+
+.galeria {
+    margin-top: 40px;
+}
+
+#contatos {
+    margin-top: 40px;
+}
+
+.onde a:hover {
+    color: red;
+}
+
+.contatos input {
+    background-color: rgb(231, 231, 253);
+}
+
+.contatos textarea {
+    background-color: rgb(231, 231, 253);
+}
+
+.carousel-item {
+    border: 2px solid rgb(147, 26, 12);
+    border-radius: 5px;
+}
+
+.nightmode {
+    margin-left: 10px;
+}
+
+.dark-mode {
+    background-color: rgba(42, 42, 46, 1);
+    color: white;
+}
